@@ -1,2 +1,2 @@
 # Buscador de cep
-Uma aplicação react que busca informações de cep de uma api publica 
+Uma aplicação React que busca informações de cep de uma api publica 
